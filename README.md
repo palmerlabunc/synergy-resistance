@@ -2,4 +2,5 @@
 
 This repository includes all of the code used to run the simulations of the relationship between synergy resistance and generate the associated figures in the article. Below is a summary of each script. 
 
-* 
+* `increasing_synergy.py` 
+* `figures.py` generates representative isobologram plots for three different levels of synergy 
